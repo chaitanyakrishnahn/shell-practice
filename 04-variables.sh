@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "please enter the username::"
+read USER_NAME # here USER_NAME is variable, whatever you enter in terminal stores in this variable
+
+echo "Username is $USER_NAME"
