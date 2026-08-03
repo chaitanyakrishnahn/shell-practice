@@ -1,5 +1,7 @@
 #!/bin/bash
-echo "curl: I will kill you"
-echo "cunt: you can't catch me"
-echo "curl: hahaha"
-echo "cunt: don't laugh"
+PERSON1=curl
+PERSON2=cunt
+echo "$PERSON1: I will kill you"
+echo "$PERSON2: you can't catch me"
+echo "$PERSONl: hahaha"
+echo "$PERSON2: don't laugh"
