@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "A1: I will kill you"
-echo "A2: you can't catch me"
-echo "A1: hahaha"
-echo "A2: don't laugh"
+echo "curl: I will kill you"
+echo "cunt: you can't catch me"
+echo "curl: hahaha"
+echo "cunt: don't laugh"
